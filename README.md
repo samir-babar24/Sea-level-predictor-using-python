@@ -1,4 +1,4 @@
-# Data analysis in python with 4 projects
+# Data analysis using python with 5 projects
 this repository has 4 projects of data analysis using python such as
 1)demographic data analyzer
 2)mean-variance std deviation calculator
